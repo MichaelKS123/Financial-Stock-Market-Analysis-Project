@@ -365,7 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Michael Semera**
 - LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
 - GitHub: [@MichaelKS123](https://github.com/MichaelKS123)
 - Email: michaelsemera15@gmail.com
@@ -388,5 +388,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you find this project useful, please consider giving it a star!**
+
 
 **Last Updated**: October 29, 2025
